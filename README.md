@@ -11,7 +11,7 @@ This project focuses on predicting outcomes for breast cancer diagnosis by imple
 
 ## 🚀 Getting Started 
 
-### 🛠️ Prerequisites 
+### Prerequisites 
 - Python 3.8 or higher
 - Jupyter Notebook
 - Necessary Python libraries (e.g., Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
