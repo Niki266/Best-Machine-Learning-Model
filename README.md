@@ -1,1 +1,1 @@
-Determining the Best machine learning model for Breast cancer classification.
+Determining the Best Machine Learning Model for Breast Cancer Classification.
